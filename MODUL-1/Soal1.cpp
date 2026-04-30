@@ -14,7 +14,7 @@ int main(){
 	cin>>hargaBeras;
 	cout<<"Harga Telur (Rp)\t: ";
 	cin>>hargaTelur;
-	cout<<"Harga Beras (Rp)\t: ";
+	cout<<"Harga Minyak Goreng (Rp)\t: ";
 	cin>>HargaMinyakGoreng;
 	cout<<"-----------------------------------------"<<endl;
 
